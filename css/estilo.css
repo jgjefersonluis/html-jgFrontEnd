@@ -37,8 +37,39 @@ header{
 	text-align:center;
 	line-height:60px;
 	}
-
-
+.redes{
+	position:absolute;
+	width:42px;
+	height:42px;
+	background:#ccc;
+	border-radius:100%;
+	text-align:center;
+	line-height:42px;
+	color:white;
+	}
+#icono1{
+	top:42px;
+	right:120px;
+	background:yellow;
+	}
+	
+#icono2{
+	top:42px;
+	right:71px;
+	background:blue;
+	}
+	
+#icono3{
+	top:42px;
+	right:19px;
+	background:yellow;
+	}
+nav{
+	position:relative;
+	margin:auto;
+	width:1000px;
+	height:48px;
+	}
 
 
 
