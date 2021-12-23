@@ -26,3 +26,27 @@ header{
 	width:1000px;
 	height:120px;
 	}
+#logo{
+	position:absolute;
+	top:30px;
+	left:30px;
+	width:200px;
+	height:60px;
+	font-family: 'Kaushan Script', cursive;
+	font-size:50px;
+	text-align:center;
+	line-height:60px;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
