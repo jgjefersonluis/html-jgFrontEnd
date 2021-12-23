@@ -4,3 +4,20 @@
 	list-style:none;
 	font-family:sans-serif;
 	}
+#chat{
+	position:fixed;
+	width:250px;
+	height:40px;
+	bottom:0;
+	right:20px;
+	background:magenta;
+	z-index:1;
+	color:white;
+	text-align:center;
+	line-height:40px;
+	font-family: 'Kaushan Script', cursive;
+	font-size:20px;
+	border-radius:20px 20px 0 0;
+	cursor:pointer;
+	}
+
