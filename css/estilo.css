@@ -20,4 +20,9 @@
 	border-radius:20px 20px 0 0;
 	cursor:pointer;
 	}
-
+header{
+	position:relative;
+	margin:20px auto;
+	width:1000px;
+	height:120px;
+	}
